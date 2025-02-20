@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">As a Software Engineer, I specialize in full-stack development using React.js, Node.js, and Python. My expertise spans building scalable cloud infrastructure on AWS (EC2, S3, CloudWatch) and implementing machine learning solutions using TensorFlow. I've successfully led the migration of legacy PHP systems to modern React/Node.js architectures while developing robust RESTful APIs and real-time communication systems using Socket.io. My recent work includes developing a Deep Learning LSTM model that achieved 94% accuracy in environmental prediction, utilizing Python's data science stack (Pandas, NumPy, Matplotlib) for analysis and visualization. With experience in both development and DevOps practices, I focus on creating secure, performant applications using technologies like JWT authentication, MySQL optimization, and automated CI/CD pipelines.</p>
+<p align="left">As a Software Engineer, I specialize in full-stack development using React.js, Node.js, and Python. My expertise spans building scalable cloud infrastructure on AWS (EC2, S3, CloudWatch) and implementing machine learning solutions using TensorFlow. I've successfully led the migration of legacy PHP systems to modern React/Node.js architectures while developing robust RESTful APIs and real-time communication systems using Socket.io. My recent work includes developing a Deep Learning LSTM model that achieved 94% accuracy in environmental prediction, utilizing Python's data science stack (Pandas, NumPy, Matplotlib) for analysis and visualization. </p>
 
 ###
 
