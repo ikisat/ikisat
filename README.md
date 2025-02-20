@@ -57,3 +57,20 @@
 </div>
 
 ###
+
+
+<h2 align="left">What drives me</h2>
+
+###
+
+<p align="left">Building developer tools that solve real-world challenges
+Implementing scalable architectures for complex systems
+Leading technical teams and fostering innovation
+Exploring the intersection of AI, ML, and dynamic systems
+
+Currently exploring advanced computational methods while actively seeking opportunities to contribute to innovative projects in full-stack development and system architecture.
+</p>
+
+###
+
+
